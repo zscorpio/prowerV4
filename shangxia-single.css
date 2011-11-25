@@ -1,0 +1,6 @@
+/* shangxia-single START */
+#shangxia{position:absolute;top:50%;left:50%;margin-left:480px;display:block;}
+#shang{background:url(images/shangxia.gif) no-repeat;position:relative;cursor:pointer;height:42px;width:32px;margin:10px 0;}
+#comt{background:url(images/shangxia.gif) no-repeat center -45px;position:relative;cursor:pointer;height:32px;width:32px;margin:10px 0;}
+#xia{background:url(images/shangxia.gif) no-repeat center -78px;position:relative;cursor:pointer;height:42px;width:32px;margin:10px 0;}
+/* shangxia-single END */
